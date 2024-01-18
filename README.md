@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🌱 I’m currently doing Software Engineering at ALX Africa.
+- 🌱 I’m currently studying Software Engineering at ALX Africa.
 - 😄 Pronouns: ...He/him please.
 - ⚡ Fun fact: ... the earth is round
 
