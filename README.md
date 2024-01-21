@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🌱 I’m currently studying Software Engineering at ALX Africa.
+- 👯 I’m looking to collaborate on projects that will improve the life of humans
 - 😄 Pronouns: ...He/him please.
 - 💬 Ask me about Web Development Technologies, C programming language
 - ⚡ Fun fact: ... the earth is round
