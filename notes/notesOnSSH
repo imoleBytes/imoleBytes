@@ -1,0 +1,14 @@
+ssh-keygen (run that to get a pair of keys: private and public)
+
+if one of the keys is used to encrypt a message, only the other key can be used to decrypt it. 
+
+when use to connect to a server
+SSH client sends a request to a server with the public key. the server encrypt a message with the public key. 
+and send it back to the client. 
+the client uses the private key to decrypt the msg. 
+then the server grants access to it. 
+
+
+when use as a signature. 
+hash a data. the hash string is then encrypt with the private key. sent together with the data to the other person. the person decrypt it with the public key. hash the data to see if the hashed value is same as the decrypted msg.  that proves that the msg was not tempered with and also was signed by the private key 
+
