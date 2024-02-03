@@ -1,0 +1,16 @@
+Vim Commands As they come
+
+1. when in normal mode. (default mode) or when ESC. i is for insert mode. 
+
+2. hjkl - for movement like the arrow keys
+h - for left
+j - for down
+k - for up
+l - for right
+
+3. Delete a character
+x - move the cursor to the character amd then x
+
+4. Delete a whole line
+dd - move the cursor to the line on any character and dd
+
