@@ -14,3 +14,11 @@ x - move the cursor to the character amd then x
 4. Delete a whole line
 dd - move the cursor to the line on any character and dd
 
+5. Jumping to a particular line
+5k - jumps to 5 lines upwards becos k. if it were j, it will jump 5 lines downwards. same for h and l
+
+6. Jumping to first line
+gg - jumps to line 1
+G - jumps to last line. 
+
+7. 
