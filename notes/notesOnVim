@@ -25,4 +25,8 @@ G - jumps to last line.
 o - add a new line below the cursor
 O - add a new line above the cursor
 
-8. 
+8. Splitting
+split or sp - horizontal split
+vsplit or vs - vertical split
+
+9.
