@@ -21,4 +21,8 @@ dd - move the cursor to the line on any character and dd
 gg - jumps to line 1
 G - jumps to last line. 
 
-7. 
+7. Adding new line
+o - add a new line below the cursor
+O - add a new line above the cursor
+
+8. 
