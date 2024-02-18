@@ -1,3 +1,14 @@
 ORM is a way to connect to a database, perform queries, and other sql operations from your programs without directly using SQL. 
 
 One of the orm for python programs is SQLAlchemy. 
+
+here is a the step to use it:
+1. create a class that inherit from a Base class. 
+the class represent the table. and the class attributes represent the fields/columns.
+
+class Student(Base):
+    __tablename__ = 'students'
+    id = Column(Integer, primary_key=True, nullable=False)
+    name = Column(String)
+
+2. 
