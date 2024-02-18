@@ -1,0 +1,3 @@
+ORM is a way to connect to a database, perform queries, and other sql operations from your programs without directly using SQL. 
+
+One of the orm for python programs is SQLAlchemy. 
