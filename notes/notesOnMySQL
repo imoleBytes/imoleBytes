@@ -1,6 +1,11 @@
 --create a user in mysql
 
-CREATE USER IF NOT EXISTS username@host IDENTIFIED BY password;
+CREATE USER IF NOT EXISTS 'username'@'host' IDENTIFIED BY 'password';
 
 --Grants permisions/privileges
 GRANT SELECT ON dbs.tables TO user@localhost;
+
+-- * is used to represent multiple items instead of coma separated values
+
+GRANT ALL PRIVILEGES ON *.* TO user@host;
+
