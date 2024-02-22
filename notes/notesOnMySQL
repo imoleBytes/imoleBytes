@@ -9,3 +9,4 @@ GRANT SELECT ON dbs.tables TO user@localhost;
 
 GRANT ALL PRIVILEGES ON *.* TO user@host;
 
+It seems to me that sql scripts has its own codestyle like betty, pycodestyle, semistandard etc. 
