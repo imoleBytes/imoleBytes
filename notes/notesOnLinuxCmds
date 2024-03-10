@@ -1,0 +1,8 @@
+cron jobs
+
+scheduling running of commands or scripts on your server
+
+crontab 
+
+***** command. 
+rhe first 5 * represent min, hour, day,month,day of week. 
